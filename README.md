@@ -10,6 +10,9 @@
 | 1    | Siddharth Pal        | 20BDS0409 |  A2  |
 | 2    | Divyanshi Srivastava | 20BCI0166 |  A2  |
 
-## Project Objective
+## Project Topic
 
---
+Design and develop a game application using JavaFX that includes the necessary graphical components, UI controls and event handling mechanism. Incorporate as many (relevant) features of JavaFX as possible.
+
+## Project Idea
+We introduce CatCopter. A flappy bird inspired game, where u need to dodge obstacles and fly your CatCopter to the safety! Control your CatCopter using mouse and avoid colliding with the brick walls. Good luck!
