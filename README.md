@@ -3,12 +3,12 @@
 
 ## Project Team
 
-Faculty: Dr. Varalakshmi M, School of Computer Science and Engineering, VIT Vellore.
+**Faculty:** Dr. Varalakshmi M, School of Computer Science and Engineering, VIT Vellore.
 
-|S.No. | Name                 | Reg. No   |
-| -    | ----------------     |:---------:|
-| 1    | Siddharth Pal        | 20BDS0409 |
-| 2    | Divyanshi Srivastava | 20BCI0166 |
+|S.No. | Name                 | Reg. No   | Slot |
+| -    | ----------------     |:---------:| :--: |
+| 1    | Siddharth Pal        | 20BDS0409 |  A2  |
+| 2    | Divyanshi Srivastava | 20BCI0166 |  A2  |
 
 ## Project Objective
 
