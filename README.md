@@ -17,12 +17,13 @@ Design and develop a game application using JavaFX that includes the necessary g
 ## Project Idea - CatCopter
 We introduce CatCopter. A flappy bird inspired game, where you need to dodge obstacles and fly your CatCopter to the safety! Control your CatCopter using mouse and avoid colliding with the brick walls. Good luck!
 
-Video Link:
+Gameplay Video:
+https://drive.google.com/file/d/1D28EXjlxbjesSj7jCLCVOnea_NsEs3jQ/view?usp=sharing
 
-https://drive.google.com/file/d/1VB4qT_bK_Yh29zTCA_ELPUJMsQ946oQM/view?usp=sharing
-https://drive.google.com/file/d/1rdU7k03AULK7FEqdyMX8RZil4RlRnru-/view?usp=sharing
+Test Gameplay Video:
+https://drive.google.com/file/d/1nyHN910jL6kLEcHMrayMDT_OTGefMdhV/view?usp=sharing
 
-![1](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter1.png?raw=true)
-![2](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter3.png?raw=true)
-![3](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter2.png?raw=true)
-![4](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter4.png?raw=true)
+![1](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/media/CatCopter1.png?raw=true)
+![2](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/media/CatCopter3.png?raw=true)
+![3](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/media/CatCopter2.png?raw=true)
+![4](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/media/CatCopter4.png?raw=true)
