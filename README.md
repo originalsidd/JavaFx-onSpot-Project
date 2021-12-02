@@ -21,3 +21,7 @@ We introduce CatCopter. A flappy bird inspired game, where you need to dodge obs
 ![2](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter3.png?raw=true)
 ![3](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter2.png?raw=true)
 ![4](https://github.com/originalsidd/JavaFx-onSpot-Project/blob/main/CatCopter4.png?raw=true)
+
+Video Link:
+(https://drive.google.com/file/d/1VB4qT_bK_Yh29zTCA_ELPUJMsQ946oQM/view?usp=sharing)
+(https://drive.google.com/file/d/1rdU7k03AULK7FEqdyMX8RZil4RlRnru-/view?usp=sharing)
